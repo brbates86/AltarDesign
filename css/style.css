@@ -49,7 +49,8 @@ header a {
     color: aliceblue;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 14px;
+    letter-spacing:2px;
 }
 
 header li {
@@ -82,8 +83,7 @@ header .highlight, header .current a {
 }
 
 header a:hover {
-    color: #cccccc;
-    font-weight: bold;
+   background-color:#00008B;
 }
 
 /*Showcase */
@@ -107,7 +107,7 @@ header a:hover {
     font-size: 20px;
     color: #000000;
     text-align: center;
-    margin-top: 65px;
+    margin-top: 25px;
     font-family: Soleil, sans-serif;
     
 }
@@ -157,7 +157,7 @@ aside#sidebar {
 article#main-col{
     float: left;
     width: 65%;
-    font-family: Soleil;
+    font-family: Soleil, sans-serif;
     
     
 
