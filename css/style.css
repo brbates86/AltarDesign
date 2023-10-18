@@ -69,12 +69,11 @@ header #branding img {
     width: auto;
     height: 100px;
     margin-top: -13px;
-    margin-left: -20px;
 }
 
 header nav {
     float: right;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
 header .highlight, header .current a {
@@ -94,13 +93,13 @@ header a:hover {
 }
 
 #showcase h1 {
-    margin-top: 65px;
+    margin-top: 85px;
     font-size: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     color: #ff623a;
     line-height: 50px;
     text-align: center;
-    font-family: Soleil;
+    font-family: Soleil, sans-serif;
     
 }
 
@@ -109,14 +108,13 @@ header a:hover {
     color: #000000;
     text-align: center;
     margin-top: 65px;
-    font-family: Soleil;
+    font-family: Soleil, sans-serif;
     
 }
 
 #showcase .container img {
-    height: 200px;
-    width: 200px;
-    margin: 95px;
+    width: 25%;
+    margin: 15px;
     align-items: center;
     
 }
@@ -144,7 +142,7 @@ ul#services li{
 footer {
     padding: 20px;
     margin-top: 261px;
-    color: #cccccc;
+    color: #ffffff;
     background: rgb(23, 78, 142);
     text-align: center;
     border-top: #ff623a solid;
