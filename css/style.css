@@ -139,6 +139,17 @@ ul#services li{
     background: #ffffff;
 }
 
+/* Buttons */
+.pillbutton
+{
+    background-color:#ff623a;
+    color:#fff;
+    border-radius:100px;
+    width:30%;
+    height:50px;
+
+}
+
 footer {
     padding: 20px;
     margin-top: 261px;
