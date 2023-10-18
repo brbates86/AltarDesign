@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
     line-height: 1.5;
     padding: 0;
     margin: 0;
@@ -74,7 +74,7 @@ header #branding img {
 
 header nav {
     float: right;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 header .highlight, header .current a {
